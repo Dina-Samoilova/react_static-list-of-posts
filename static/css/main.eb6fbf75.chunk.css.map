@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/PostInfo/PostInfo.css"],"names":[],"mappings":"AAAA,cACE,wBACF","file":"main.eb6fbf75.chunk.css","sourcesContent":[".comment_list {\n  background-color: ghostwhite;\n}\n"]}
